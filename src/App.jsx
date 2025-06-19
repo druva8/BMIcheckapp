@@ -96,7 +96,7 @@ const App = () => {
 
       <div className="right">
         <img
-          src="/druva-hospital.png"
+          src="/hospital.png"
           alt="Druva Techs Building"
           className="building-img"
         />
